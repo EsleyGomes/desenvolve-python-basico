@@ -1,0 +1,7 @@
+1. Inicio
+2. Leia n
+3. D1=n-1
+4. D2=10-n
+5. 9xn=D1x10+D2
+6= Imprima 9xn
+7= Fim
